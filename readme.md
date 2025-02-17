@@ -23,8 +23,13 @@ Este proyecto es un sistema de gestión de un catálogo de películas. implement
 🔹Selecciona "Eliminar Catálogo" para eliminar el archivo `txt` del catálogo.
 🔹Selecciona "Salir" para finalizar el programa.
 
-✅ ¿Qué tuvimos que hacer?
+✅ ¿Qué ulitizamos para poder hacerlo?
 
-Usamos Python como lenguaje principal y implementamos POO
+Usamos Python como lenguaje principal y implementamos POO.
+
+👏🏻 Agradecimiento:
+
+Queremos expresar nuestro agradecimiento a ADDA y los profes por  su apoyo y consideración que  han sido fundamentales y muy apreciados.
+Gracias por su tiempo y esfuerzo. Su amabilidad no pasa desapercibida y es un recordatorio constante de la importancia de la colaboración y el respeto mutuo.❤️
 
 
